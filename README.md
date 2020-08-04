@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**AnaBBT/AnaBBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ana Beatriz B. Tenorio
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal! 👋
+Gosto muito de prgramação e de tentar resolver problemas e 
+ajudar alguém que precise, também sou muito criativa.
+💻
+- 📚 Curso Engenharia de Controle e Automação (3º período)
+- 🔭 Estou estudando na Escola Politecnica de Recife - UPE
+- 🌱 Atualmente estou aprendendo Linguagem C, Python e HTML
+- 📫 E-mail: anabia4bt@gmail.com
+- 📱  LinkedIn: linkedin.com/in/ana-beatriz-tenorio-1991931b3 
