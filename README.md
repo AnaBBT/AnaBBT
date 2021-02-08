@@ -1,5 +1,5 @@
 
-# Ana Beatriz B. Tenorio
+# Ana Beatriz Barbosa Tenorio
 
 ## Olá pessoal! 👋
 Gosto muito de prgramação e de tentar resolver problemas e 
